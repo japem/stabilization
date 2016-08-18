@@ -1,6 +1,10 @@
 #Jonah Pemstein
 #Cronbach's alpha to measure reliability of different stats
-#Data sources: Baseball Info Solutions (batted balls), Pitchf/x (pitches, at bats, and plate appearances), StatCast (statcast stats)
+#Data sources: 
+#   Baseball Info Solutions (batted balls, stolen bases)
+#   Pitchf/x (pitches, at bats, plate appearances, pickoffs, left on base)
+#   StatCast (statcast stats)
+#   Retrosheet (fielding, shutdowns/meltdowns)
 
 #Import modules
 import pandas as pd
